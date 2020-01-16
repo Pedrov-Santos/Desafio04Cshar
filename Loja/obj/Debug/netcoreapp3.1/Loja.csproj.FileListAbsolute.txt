@@ -1,0 +1,10 @@
+C:\Users\PODT\source\repos\Loja\Loja\bin\Debug\netcoreapp3.1\Loja.exe
+C:\Users\PODT\source\repos\Loja\Loja\bin\Debug\netcoreapp3.1\Loja.deps.json
+C:\Users\PODT\source\repos\Loja\Loja\bin\Debug\netcoreapp3.1\Loja.runtimeconfig.json
+C:\Users\PODT\source\repos\Loja\Loja\bin\Debug\netcoreapp3.1\Loja.runtimeconfig.dev.json
+C:\Users\PODT\source\repos\Loja\Loja\bin\Debug\netcoreapp3.1\Loja.dll
+C:\Users\PODT\source\repos\Loja\Loja\bin\Debug\netcoreapp3.1\Loja.pdb
+C:\Users\PODT\source\repos\Loja\Loja\obj\Debug\netcoreapp3.1\Loja.AssemblyInfoInputs.cache
+C:\Users\PODT\source\repos\Loja\Loja\obj\Debug\netcoreapp3.1\Loja.AssemblyInfo.cs
+C:\Users\PODT\source\repos\Loja\Loja\obj\Debug\netcoreapp3.1\Loja.dll
+C:\Users\PODT\source\repos\Loja\Loja\obj\Debug\netcoreapp3.1\Loja.pdb
